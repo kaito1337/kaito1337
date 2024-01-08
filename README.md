@@ -31,9 +31,10 @@ I am a Backend Developer from Russia.
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; Contacts :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaito1337&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- [Telegram](https://t.me/kaito1337)
+- [Gmail](nins471@gmail.com)
 
 ---
 
