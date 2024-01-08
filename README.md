@@ -6,7 +6,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a Backend Developer from Russia.
 
 - 🔭 I’m working as a Backend Developer and contributing for building web applications.
 - 🌱 Exploring Technical Content Writing.
