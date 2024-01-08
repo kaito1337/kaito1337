@@ -32,7 +32,7 @@ I'm Nikita, a 19 years old developer from Russia.
 ---
 
 ### 🔥 &nbsp; Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaito1337&layout=compact&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaito1337&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
