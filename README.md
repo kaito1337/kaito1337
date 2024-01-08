@@ -17,7 +17,7 @@ I am a Backend Developer from Russia.
 ### 🛠 &nbsp;Skills :
 
 <p>
-<img href="https://go.dev/" src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+<a href="https://go.dev/"><img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
 <img href="https://echo.labstack.com/" src = "https://cdn.labstack.com/images/echo-logo.svg" title="Echo" alt="Echo" width="40" height="40"/>&nbsp;
 <img href="https://gofiber.io/" src = "https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" title="Fiber" alt="Fiber" width="40" height="40"/>&nbsp;
 <img href="https://gorm.io/" src = "https://gorm.io/gorm.svg" title="GORM" alt="GORM" width="40" height="40"/>&nbsp;
