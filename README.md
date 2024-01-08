@@ -31,10 +31,10 @@ I am a Backend Developer from Russia.
 
 ---
 
-### 🔥 &nbsp; Contacts :
+### 📞 &nbsp; Contacts :
 
 - [Telegram](https://t.me/kaito1337)
-- [Gmail](nins471@gmail.com)
+- [Email](mailto:nins471@gmail.com)
 
 ---
 
