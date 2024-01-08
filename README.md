@@ -17,10 +17,12 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🛠 &nbsp;Skills :
 
 <p>
-  https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 <img src ="https://cdn.labstack.com/images/echo-logo.svg" title="Echo" alt="Echo" width="40" height="40"/>&nbsp;
 <img src ="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" title="Fiber" alt="Fiber" width="40" height="40"/>&nbsp;
+<img src ="https://avatars.githubusercontent.com/u/15127678?s=200&v=4" title="GORM" alt="GORM" width="40" height="40"/>&nbsp;
+<img src ="https://raw.githubusercontent.com/swaggo/swag/master/assets/swaggo.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
+<img src ="https://github.com/golangci/golangci-lint/blob/master/assets/go.png" title="Linter" alt="Linter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
