@@ -6,7 +6,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Backend Developer from Russia.
+I'm Nikita, a 19 years old developer from Russia.
 
 - 🔭 I’m working as a Backend Developer and contributing for building web applications.
 - 🌱 Exploring Technical Content Writing.
