@@ -15,7 +15,7 @@ I'm Nikita, a 20 years old developer from Russia.
 
 <p>
 <a href="https://go.dev/"><img src = "https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/></a>&nbsp;
-<a href="https://echo.labstack.com/"><img src = "https://cdn.labstack.com/images/echo-logo.svg" title="Echo" alt="Echo" width="40" height="40"/></a>&nbsp;
+<a href="https://echo.labstack.com/"><img src = "[https://cdn.labstack.com/images/echo-logo.svg](https://echo.labstack.com/img/logo-light.svg)" title="Echo" alt="Echo" width="40" height="40"/></a>&nbsp;
 <a href="https://gofiber.io/"><img src = "https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo-dark.svg" title="Fiber" alt="Fiber" width="40" height="40"/></a>&nbsp;
 <a href="https://gorm.io/"><img src = "https://gorm.io/gorm.svg" title="GORM" alt="GORM" width="40" height="40"/></a>&nbsp;
 <a href="https://github.com/swaggo/swag"><img src = "https://raw.githubusercontent.com/swaggo/swag/master/assets/swaggo.png" title="Swagger" alt="Swagger" width="40" height="40"/></a>&nbsp;
