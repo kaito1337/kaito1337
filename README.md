@@ -3,7 +3,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I'm Nikita, a 20 years old developer from Russia.
+I'm Nikita, a 21 years old developer from Russia.
 
 - 🔭 I’m working as a Backend Developer and contributing for building web applications.
 - 🌱 Exploring Technical Content Writing.
