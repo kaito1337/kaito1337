@@ -34,6 +34,6 @@ I'm Nikita, a 21 years old developer from Russia.
 
 ### 📞 &nbsp; Contacts :
 
-- [Telegram](https://t.me/kaito1337)
+- [Telegram](https://t.me/kaitoleet)
 - [Email](mailto:nins471@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/kaitoleet/)
